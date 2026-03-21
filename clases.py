@@ -19,4 +19,7 @@ perro_2 = Animales('Max', 'Pincher', 'blanco', '2', 'macho')
 print(perro_1)
 print(perro_2)
 
+perro_1.ladrar()
+perro_2.morder()
+
 
