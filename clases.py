@@ -21,5 +21,3 @@ print(perro_2)
 
 perro_1.ladrar()
 perro_2.morder()
-
-
